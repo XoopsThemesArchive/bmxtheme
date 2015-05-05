@@ -1,0 +1,90 @@
+body{background-image: url(bground.gif);color:#333366;margin:0;padding:0;font:12px Verdana,Arial,Helvetica,sans-serif;}
+.bgtitle{background-image : url(bg_titlebk.gif);}
+.logobk{background-color : #315129;}
+.forumline{background: #f7f7f7;border: 2px solid black;}
+table {width: 100%; padding:0;}
+table td {vertical-align: top; font-family: Verdana, Arial, Helvetica, sans-serif;}
+fieldset {border:1px solid #000080; padding:1px;}
+a {color: #333333; text-decoration: none; font-weight: bold; background-color: transparent;}
+a:hover {color: #ff6600;}
+h1 {}
+h2 {}
+h3 {}
+h4 {}
+h5 {}
+ul { margin: 2px; padding: 2px; list-style: decimal inside; text-align: left;}
+li { margin-left: 2px; list-style: square inside; color: #000080;}
+input.formButton {}
+.item {border: 1px solid #333366;}
+.itemHead {padding: 2px; background-color: #909090; color: #333366;}
+.itemInfo {text-align: right; padding: 3px; background-color: #f7f7f7}
+.itemTitle a {font-size: 130%; font-weight: bold; font-variant: small-caps; color: #333366; background-color: transparent;}
+.itemPoster {font-size: 90%; font-style:italic;}
+.itemPostDate {font-size: 90%; font-style:italic;}
+.itemStats {font-size: 90%; font-style:italic;}
+.itemBody {padding-left: 5px;background-color: #f7f7f7}
+.itemText {margin-top: 5px; margin-bottom: 5px; line-height: 1.5em;}
+.itemText:first-letter {font-size: 133%; font-weight: bold;}
+.itemFoot {text-align: right; padding: 3px; background-color: #f7f7f7}
+.itemAdminLink {font-size: 90%;}
+.itemPermaLink {font-size: 90%;}
+th {background-color: #2f5376; color: #000000; padding : 2px; vertical-align : middle; font-family: Verdana, Arial, Helvetica, sans-serif;}
+td#headerbanner {width: 100%; background-color: #7ec0ee; vertical-align: center; text-align:center;}
+td#headerbar {border-bottom: 1px solid #dddddd; background-image: url(hbar.gif);}
+td#leftcolumn {padding: 0; width: 155px; font-size:12px;border: 1px solid black;}
+td#leftcolumn th {padding: 5px; background-color: #7ec0ee; lighter;background-image : url(forumheader.gif); color: #555555; vertical-align: middle;}
+td#leftcolumn div.blockTitle {background-color: #dddddd; padding: 3px; lighter;background-image : url(tbar.gif); border-top: 1px solid #555555; border-bottom: 1px solid #555555; color: #555555; font-weight: bold;}
+td#leftcolumn div.blockContent {padding: 3px;border-top: line-height: 120%; line-height: 120%;}
+td#centercolumn {font-size: 12px;}
+td#centercolumn th {padding: 5px;background-color: silver; lighter;background-image : url(forumheader.gif); color: #555555; vertical-align: middle;}
+td#centerCcolumn {padding: 4px;}
+td#centerCcolumn legend.blockTitle {padding: 0px; color: #55555; font-weight: bold; margin-top: 0px; margin-right: 0px; margin-left: 0px;}
+td#centerCcolumn div.blockContent {padding: 3px; margin-right: 0px; margin-left: 0px; margin-bottom: 0px; line-height: 115%;}
+td#centerLcolumn {width: 50%; padding: 0px 3px 0px 0px;}
+td#centerLcolumn legend.blockTitle {padding: 3px; color: #639ACE; font-weight: bold; margin-top: 0px;}
+td#centerLcolumn div.blockContent {border-left: 1px solid #cccccc; border-right: 1px solid #cccccc; border-bottom: 1px solid #dddddd; padding: 3px; margin-left: 3px; margin-right: 2px; margin-bottom: 2px; line-height: 120%;}
+td#centerRcolumn {width: 50%; padding: 0px 3px 0px 0px;}
+td#centerRcolumn legend.blockTitle {padding: 3px; color: #639ACE; font-weight: bold; margin-top: 0px;}
+td#centerRcolumn div.blockContent {border-left: 1px solid #cccccc; border-right: 1px solid #cccccc; border-bottom: 1px solid #dddddd; padding: 3px; margin-left: 2px; margin-right: 3px; margin-bottom: 2px; line-height: 120%;}
+div#content {text-align: left; padding: 4px;}
+td#rightcolumn {padding: 0; width: 155px; font-size:12px;border: 1px solid black;}
+td#rightcolumn th {padding: 0px;background-color: #7ec0ee; lighter;background-image : url(forumheader.gif); color: #555555; vertical-align: middle;}
+td#rightcolumn div.blockTitle {background-color: #dddddd; padding: 3px; lighter;background-image : url(tbar.gif); border-top: 1px solid #555555; border-bottom: 1px solid #555555; color: #555555; font-weight: bold;}
+td#rightcolumn div.blockContent {padding: 2px; color: #333333; border-top: line-height: 120%; line-height: 120%;}
+tr#footerbar {text-align:center; background-image: url(hbar.gif);}
+td#mainmenu a {padding: 2px;}
+td#mainmenu a:hover {background-color: #ff9933;}
+td#mainmenu a.menuTop {padding-left: 3px; color: #333333;}
+td#mainmenu a.menuMain {padding-left: 3px; color: #333333;}
+td#mainmenu a.menuSub {padding-left: 9px; color: #333333;}
+td#usermenu a {padding: 2px; color: #333333;}
+td#usermenu a:hover {background-color: #ff9933;}
+td#usermenu a.menuTop { color: #333333;}
+td#usermenu a.highlight {background-color: #fcc;}
+/*
+** Forum,Poll Table attr
+*/
+.outer {background-color: #f0f0f0;border: 1px solid #555555;}
+.head {background-color: #c2cdd6; padding: 0; font-weight: bold;}
+.even {background-color: #dee3e7; padding: 2px;}
+.odd {background-color: #E9E9E9; padding: 2px;}
+.foot {background-color: #c2cdd6; padding: 2px; font-weight: bold;}
+tr.even td {background-color: #dee3e7; padding: 2px;}
+tr.odd td {background-color: #E9E9E9; padding: 2px;}
+div.errorMsg { background-color: #FFCCCC; text-align: center; border-top: 1px solid #DDDDFF; border-left: 1px solid #DDDDFF; border-right: 1px solid #AAAAAA; border-bottom: 1px solid #AAAAAA; font-weight: bold; padding: 10px;}
+div.confirmMsg { background-color: #DDFFDF; color: #136C99; text-align: center; border-top: 1px solid #DDDDFF; border-left: 1px solid #DDDDFF; border-right: 1px solid #AAAAAA; border-bottom: 1px solid #AAAAAA; font-weight: bold; padding: 10px;}
+div.resultMsg { background-color : #CCCCCC; color: #333333; text-align: center; border-top: 1px solid silver; border-left: 1px solid silver; font-weight: bold; border-right: 1px solid #666666; border-bottom: 1px solid #666666; padding: 10px;}
+div.xoopsCode { background: #FFFFFF; border: 1px inset #000080; font-family: "Courier New",Courier,monospace; padding: 0px 6px 6px 6px;}
+div.xoopsQuote { background: #FFFFFF; border: 1px inset #000080; font-family: "Courier New",Courier,monospace; padding: 0px 6px 6px 6px;}
+.comTitle {font-weight: bold; margin-bottom: 2px;}
+.comText {padding: 2px;}
+.comUserStat {font-size: 10px; color: #7ec0ee; font-weight:bold; border: 1px solid silver; background-color: #f7f7f7; margin: 2px; padding: 2px;}
+.comUserStatCaption {font-weight: normal;}
+.comUserStatus {margin-left: 2px; margin-top: 10px; color: #7ec0ee; font-weight:bold; font-size: 10px;}
+.comUserRank {margin: 2px;}
+.comUserRankText {font-size: 10px;font-weight:bold;}
+.comUserRankImg {border: 0;}
+.comUserName {}
+.comUserImg {margin: 2px;}
+.comDate {font-weight: normal; font-style: italic; font-size: smaller}
+.comDateCaption {font-weight: bold; font-style: normal;}
